@@ -54,11 +54,3 @@
 ### Palak Agarwal :
 * Email - palakagarwal2864@gmail.com
 * Contribution : Machine Learning Algorithms using Python for Product Recommendations.
-
-### Y. Ningthoibi Devi :
-* Email - devininghoibi28@gmail.com
-* Contribution : Image Assets and Data Set Preparation.
-
-### Sriya Chettri :
-* Email - sriyachettri20041999@gmail.com
-* Contribution - Data Set Preparation.
