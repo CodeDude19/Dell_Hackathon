@@ -1,0 +1,40 @@
+.laptops {
+  width: 75vw;
+  height: fit-content;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.lcards {
+  margin-bottom: 15px;
+  border-radius: 7px;
+  border: solid 1px grey;
+  margin-right: 40px;
+  font-size: 17px;
+  padding: 10px;
+  width: fit-content;
+  height: fit-content;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  color: black;
+}
+
+.lcards img {
+  width: 220px;
+  height: 200px;
+}
+
+.lcards button {
+  border-radius: 5px;
+  float: left;
+  font-size: 14px;
+  padding: 15px;
+  border: none;
+  background-color: #408001;
+  color: white;
+  width: fit-content;
+  height: fit-content;
+}

@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="Stylesheets/prod.css">
+    <link rel="stylesheet" href="Stylesheets/index.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <div class="headContain">
+            <a href="/"><svg class="mh-masthead-icon" version="1.1" xmlns="//www.w3.org/2000/svg"
+                    xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" xml:space="preserve">
+                    <path
+                        d="M4.7,4.7L4.7,4.7M16,0c8.8,0,16,7.2,16,16l0,0c0,8.8-7.2,16-16,16l0,0C7.2,32,0,24.8,0,16l0,0C0,7.2,7.2,0,16,0L16,0 M27.3,4.7L27.3,4.7 M16,1.7c-3.9,0-7.5,1.6-10.1,4.2l0,0C3.3,8.5,1.7,12.1,1.7,16l0,0c0,3.9,1.6,7.5,4.2,10.1l0,0c2.6,2.6,6.2,4.2,10.1,4.2l0,0c3.9,0,7.5-1.6,10.1-4.2l0,0c2.6-2.6,4.2-6.1,4.2-10.1l0,0c0-3.9-1.6-7.5-4.2-10.1l0,0C23.5,3.3,19.9,1.7,16,1.7L16,1.7 M25.8,17.3h2.4v2h-4.8v-6.9h2.4V17.3zM18,16.9L14,20l-3.6-2.8c-0.5,1.3-1.8,2.1-3.2,2.1H4.1v-6.9h3.1c1.6,0,2.8,1,3.2,2.1l3.6-2.8l1.3,1.1l-3.3,2.6l0.6,0.5l3.3-2.6l1.3,1.1L14,16.9l0.6,0.5l3.3-2.6v-2.4h2.4v4.9h2.4v2H18L18,16.9L18,16.9zM8.4,15.9c0-0.9-0.6-1.5-1.5-1.5H6.4v2.9h0.5C7.7,17.3,8.4,16.9,8.4,15.9z">
+                    </path>
+                </svg></a>
+            <input class="search" type="text" placeholder="What can we help you find?">
+            <button class="searchbtn">Search</button>
+            <button class="SignIn"><svg class="mh-si-icon" version="1.1" xmlns="//www.w3.org/2000/svg" width="30.5"
+                    height="32" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 30.5 32"
+                    xml:space="preserve">
+                    <path
+                        d="M15.6,0c4.3,0,7.8,3.5,7.8,7.7c0,4.3-3.5,7.8-7.8,7.8c-4.3,0-7.7-3.5-7.7-7.8C7.9,3.5,11.3,0,15.6,0z M30.5,32H0v-5.6c0-4.3,3.5-7.8,7.8-7.8h15c4.3,0,7.8,3.5,7.8,7.8V32z">
+                    </path>
+                </svg></button>Sign In
+            <button class="Cart"><svg class="cf-masthead-icon" version="1.1" xmlns="//www.w3.org/2000/svg"
+                    xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 43 32" width="43" height="32"
+                    xml:space="preserve">
+                    <path
+                        d="M36.6,17.4l5-12c0.1-0.3,0.1-0.6-0.1-0.8c-0.2-0.2-0.5-0.4-0.8-0.4l-30.3,0L9,0.8C8.9,0.8,8.9,0,7.2,0H3.8c-1,0-2-0.2-2.6,1C1.1,1.2,1,1.4,1,1.7v0c0,0,0,0,0,0c0,0.2,0.1,0.5,0.1,0.7c0.1,0.2,0.2,0.3,0.3,0.5c0,0,0,0.1,0.1,0.1c0.4,0.5,1,0.9,1.8,0.9h3.5c0,0,0,0,0,0l10.5,20.7c-1.4,0.6-2.4,2-2.4,3.6c0,2.1,1.7,3.9,3.9,3.9c2.1,0,3.9-1.7,3.9-3.9c0-0.2,0-1.9,0-2.1l8.5,0c0,0.1,0,1.9,0,2.1c0,2.1,1.7,3.9,3.9,3.9c2.1,0,3.9-1.7,3.9-3.9c0-1.7-1.2-3.2-2.8-3.7c-0.1,0-0.1-0.1-0.2-0.1c-0.2-0.7-0.8-1.2-1.5-1.2l-14.3,0l-2.7-5.2l18.2,0C36.1,17.9,36.4,17.7,36.6,17.4L36.6,17.4z">
+                    </path>
+                </svg></button>Cart
+            <button class="flag"><img src="//i.dell.com/images/global/masthead/smlflags/in.gif" alt="IND"></button
+                class="flag">IND
+        </div>
+    </header>
+    <div class="header2">
+        <div class="navbar">
+            <!-- dropdown1 -->
+            <div class="dropdown">
+                <button class="dropbtn">Products</button>
+                <div class="dropdown-content">
+                    <a href="/products">Laptops</a>
+                    <a href="#">Desktop & All-in-One<br>PCs</a>
+                    <a href="#">Tablets & 2-in-1 Laptops</a>
+                    <a href="#">Gaming</a>
+                    <a href="#">Workstation</a>
+                    <a href="#">Servers & Storage</a>
+                    <a href="#">Networking</a>
+                    <a href="#">Monitors</a>
+                    <a href="#">Electronics & <br>Accessories</a>
+                </div>
+            </div>
+            <!-- dropdown2 -->
+            <div class="dropdown">
+                <button class="dropbtn">Solutions</button>
+                <div class="dropdown-content">
+                    <a href="#">View All Solutions</a>
+                    <a href="#">Industries</a>
+                    <a href="#">Big Data</a>
+                    <a href="#">Cloud</a>
+                    <a href="#">Data Center</a>
+                    <a href="#">Desktop Virtualization</a>
+                    <a href="#">Internet of Things</a>
+                    <a href="#">Mobile</a>
+                    <a href="#">Security</a>
+                    <a href="#">Training & Certifications</a>
+                    <a href="#">Dell EMC Solutions</a>
+                </div>
+            </div>
+            <!-- dropdown3 -->
+            <div class="dropdown">
+                <button class="dropbtn">Services</button>
+                <div class="dropdown-content">
+                    <a href="#">View All Services</a>
+                    <a href="#">Support Services for Home</a>
+                    <a href="#">Support Services for<br>Business</a>
+                    <a href="#">Deployment Services</a>
+                </div>
+            </div>
+            <!-- dropdown4 -->
+            <div class="dropdown">
+                <button class="dropbtn">Deals</button>
+                <div class="dropdown-content">
+                    <a href="#">Laptop Deals</a>
+                    <a href="#">Desktop Deals</a>
+                    <a href="#">Workstation Deals</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">Find a Store</button>
+            </div>
+        </div>
+    </div>
+    <h2 style="text-align: center;">Laptops</h2><br>
+    <div class="laptops">
+        <div class="lcards">
+            <img src="Images/General_Laptop/Gaming.jpg" alt="">
+            <p style="text-align: center;" id="lname">Alienware M-15</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Student.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Inspiron 7000</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Progamming.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Latitude</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/DataSc.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Vostro</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Executive.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Xps 13</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Home.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Inspiron 5000</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Gaming.jpg" alt="">
+            <p style="text-align: center;" id="lname">Alienware M-15</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Student.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Inspiron 7000</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Progamming.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Latitude</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/DataSc.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Vostro</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Executive.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Xps 13</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Home.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Inspiron 5000</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Gaming.jpg" alt="">
+            <p style="text-align: center;" id="lname">Alienware M-15</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Student.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Inspiron 7000</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Progamming.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Latitude</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/DataSc.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Vostro</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Executive.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Xps 13</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Home.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Inspiron 5000</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Gaming.jpg" alt="">
+            <p style="text-align: center;" id="lname">Alienware M-15</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Student.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Inspiron 7000</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Progamming.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Latitude</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/DataSc.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Vostro</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Executive.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Xps 13</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+        <div class="lcards">
+            <img src="Images/General_Laptop/Home.jpg" alt="">
+            <p style="text-align: center;" id="lname">Dell Inspiron 5000</p>
+            <button id="Add">Add to Cart</button>
+        </div>
+    </div>
+    <div class="footer2">
+        <span>About Dell</span>
+        <span>Careers</span>
+        <span>Community</span>
+        <span>Events</span>
+        <span>Partner Program</span>
+        <span>Premier</span>
+        <span>Dell Technologies</span>
+    </div>
+    <footer>
+        <span>© 2019 Dell</span>
+        <span>Terms of Sale</span>
+        <span>Privacy Statement</span>
+        <span>Legal & Regulatory</span>
+        <span>Dell Recycling</span>
+        <span>Corporate Social Responsibility</span>
+        <span>Contact Us</span>
+        <span>Feedback</span>
+    </footer>
+</body>
+
+</html>

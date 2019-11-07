@@ -1,0 +1,464 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  width: 100vw;
+  height: 10vh;
+  background-color: #007db8;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: #fff;
+  font-size: 15px;
+  border-bottom: solid 1px #118fd6;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+.mh-masthead-icon {
+  fill: #fff;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.mh-si-icon {
+  fill: #fff;
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.cf-masthead-icon {
+  fill: #fff;
+  width: 20px;
+  height: 20px;
+  margin-left: 20px;
+  margin-right: 5px;
+}
+
+.SignIn,
+.Cart,
+.flag {
+  background-color: #007db8;
+  border: none;
+}
+
+.SignIn,
+.Cart,
+.flag,
+.searchbtn:hover {
+  cursor: pointer;
+}
+
+.headContain {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  cursor: pointer;
+}
+
+.search {
+  padding: 6px;
+  border: none;
+  width: 53vw;
+  border-radius: 1px;
+  color: dimgrey;
+}
+
+.searchbtn {
+  padding: 5px;
+  border: none;
+  background-image: linear-gradient(to bottom, #118fd6, #0f6eca);
+  color: #fff;
+  width: 70px;
+  border: solid 1px white;
+  margin-right: 40px;
+  border-radius: 1px;
+}
+
+.flag {
+  margin-left: 20px;
+  margin-right: 5px;
+}
+
+.header2 {
+  width: 100vw;
+  height: 5vh;
+  background-color: #007db8;
+  display: flex;
+  flex-direction: row;
+  color: #fff;
+  font-size: 15px;
+}
+
+/* Drop Down Menus  */
+.navbar {
+  margin-left: 170px;
+  margin-right: auto;
+  width: 600px;
+}
+
+.dropbtn {
+  height: 4vh;
+  background-color: #007db8;
+  color: white;
+  padding: 6px 13px;
+  border: none;
+  font-size: 14px;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  font-size: 13px;
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  border-bottom: solid 4px #007db8;
+  width: 250px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: #007db8;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #fff;
+  color: #007db8;
+}
+
+/* End of Menu Stytling */
+.popimgdiv {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.popt {
+  text-align: center;
+  color: #007db8;
+  font-size: 17px;
+}
+
+.popimg {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.popt1,
+.fsubmit {
+  text-align: center;
+  margin-top: 5px;
+  padding: 10px;
+  background-color: #007db8;
+  color: #fff;
+  width: fit-content;
+}
+
+img:hover {
+  cursor: pointer;
+}
+
+span:hover {
+  cursor: pointer;
+}
+
+footer {
+  font-size: 12px;
+  width: 100vw;
+  height: 5vh;
+  background: #007db8;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  color: #fff;
+  justify-content: center;
+}
+
+footer span {
+  padding: 10px;
+}
+
+.footer2 {
+  font-size: 14px;
+  width: 100vw;
+  height: 7vh;
+  background: #eee;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  color: black;
+  justify-content: center;
+}
+
+.footer2 span {
+  padding: 15px;
+}
+
+.Recommendations {
+  display: flex;
+  flex-direction: row;
+  width: 77vw;
+  height: 40vh;
+  background-color: #fff;
+  justify-content: center;
+  align-items: center;
+  /* border: solid 1px #007db8; */
+}
+
+.popimgdiv2 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cards_rec {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 20px;
+  height: 30vh;
+  justify-content: center;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  border: solid 1px #007db8;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.cards_rec2 {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 20px;
+  height: 40vh;
+  justify-content: center;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  border: solid 1px #007db8;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.cards_rec span {
+  margin-top: 15px;
+  font-family: inherit;
+  font-size: 17px;
+  color: #007db8;
+}
+
+.cards_rec2 span {
+  margin-top: 15px;
+  font-family: inherit;
+  font-size: 17px;
+  color: #007db8;
+}
+
+.cards_rec p {
+  margin-top: 5px;
+  font-family: inherit;
+  font-size: 16px;
+  color: black;
+}
+
+.cards_rec2 p {
+  margin-top: 5px;
+  font-family: inherit;
+  font-size: 16px;
+  color: black;
+}
+
+.cards_rec:hover {
+  transform: scale(1.1);
+}
+
+.cards_rec2:hover {
+  transform: scale(1.1);
+}
+
+/* Here we modify the scrollbar */
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+.Recommendations::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background-color: #f5f5f5;
+}
+
+.Recommendations::-webkit-scrollbar {
+  width: 1px;
+  background-color: #f5f5f5;
+}
+
+.Recommendations::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: #007db8;
+}
+
+/* Scroll Mpdification done */
+
+/* Rating System */
+.rating {
+  display: inline-block;
+  position: relative;
+  height: 30px;
+  font-size: 30px;
+}
+
+.rating label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  cursor: pointer;
+}
+
+.rating label:last-child {
+  position: static;
+}
+
+.rating label:nth-child(1) {
+  z-index: 5;
+}
+
+.rating label:nth-child(2) {
+  z-index: 4;
+}
+
+.rating label:nth-child(3) {
+  z-index: 3;
+}
+
+.rating label:nth-child(4) {
+  z-index: 2;
+}
+
+.rating label:nth-child(5) {
+  z-index: 1;
+}
+
+.rating label input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+.rating label .icon {
+  float: left;
+  color: transparent;
+}
+
+.rating label:last-child .icon {
+  color: #000;
+}
+
+.rating:not(:hover) label input:checked~.icon,
+.rating:hover label:hover input~.icon {
+  color: #09f;
+}
+
+.rating label input:focus:not(:checked)~.icon:last-child {
+  color: #000;
+  text-shadow: 0 0 5px #09f;
+}
+
+/* Rating System Done */
+/*Cookie Consent Begin*/
+#cookieConsent {
+  background-color: rgba(20, 20, 20, 0.8);
+  min-height: 26px;
+  font-size: 14px;
+  color: #ccc;
+  line-height: 26px;
+  padding: 8px 0 8px 30px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: none;
+  z-index: 9999;
+}
+
+#cookieConsent a {
+  color: #4B8EE7;
+  text-decoration: none;
+}
+
+#closeCookieConsent {
+  float: right;
+  display: inline-block;
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+  margin: -15px 0 0 0;
+  font-weight: bold;
+}
+
+#closeCookieConsent:hover {
+  color: #FFF;
+}
+
+#cookieConsent a.cookieConsentOK {
+  background-color: #F1D600;
+  color: #000;
+  display: inline-block;
+  border-radius: 5px;
+  padding: 0 20px;
+  cursor: pointer;
+  float: right;
+  margin: 0 60px 0 10px;
+}
+
+#cookieConsent a.cookieConsentOK:hover {
+  background-color: #E0C91F;
+}
+
+/*Cookie Consent End*/

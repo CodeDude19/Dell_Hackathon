@@ -1,0 +1,994 @@
+Cpu,Ram,Gpu,OpSys,Price,Category,Label number
+A,2,P,WI,14880,Home User,1
+A,2,P,CH,15430,Home User,1
+A,2,Q,WI,15430,Home User,1
+A,4,P,WI,15733,Home User,1
+A,4,P,LI,17369,Home User,1
+A,4,P,WI,17757,Home User,1
+A,2,P,WI,18532,Home User,1
+A,4,P,WI,18997,Home User,1
+A,2,P,WI,18997,Home User,1
+A,4,P,WI,19300,Home User,1
+A,4,P,WI,19307,Home User,1
+A,2,P,WI,19307,Home User,1
+A,4,P,WI,19307,Home User,1
+A,4,P,NO,19568,Home User,1
+A,4,P,WI,19773,Home User,1
+A,4,P,NO,20005,Home User,1
+A,4,P,NO,20083,Home User,1
+A,4,P,WI,20160,Home User,1
+A,4,P,CH,20548,Home User,1
+A,4,P,WI,20548,Home User,1
+A,4,P,CH,20858,Home User,1
+A,4,P,WI,20858,Home User,1
+A,4,P,NO,20984,Home User,1
+A,4,P,WI,21246,Home User,1
+A,4,P,LI,21316,Home User,1
+A,4,P,LI,21323,Home User,1
+A,2,P,WI,21324,Home User,1
+A,4,Q,WI,21555,Home User,1
+A,2,P,WI,21634,Home User,1
+A,4,P,WI,22176,Home User,1
+A,4,P,NO,22401,Home User,1
+A,4,P,WI,22642,Home User,1
+A,4,P,CH,22874,Home User,1
+A,4,P,CH,23029,Home User,1
+A,4,P,WI,23107,Home User,1
+A,4,Q,LI,23107,Home User,1
+A,4,Q,WI,23107,Home User,1
+A,4,P,NO,23184,Home User,1
+A,4,P,WI,23184,Home User,1
+A,4,P,WI,23184,Home User,1
+A,4,P,WI,23184,Home User,1
+A,4,P,WI,23572,Home User,1
+A,2,P,WI,23607,Home User,1
+A,4,P,WI,23727,Home User,1
+A,4,P,WI,23960,Home User,1
+A,4,Q,NO,23960,Home User,1
+A,4,Q,WI,23960,Home User,1
+A,4,Q,WI,24658,Home User,1
+A,4,P,NO,24967,Home User,1
+A,4,P,CH,25201,Home User,2
+A,8,P,NO,25511,Home User,2
+A,4,P,WI,25511,Home User,2
+A,2,P,CH,25588,Home User,2
+A,4,Q,WI,25588,Home User,2
+A,4,P,WI,26364,Home User,2
+A,4,P,WI,26674,Home User,2
+A,4,P,WI,26674,Home User,2
+A,4,R,NO,26751,Home User,2
+A,4,P,WI,26906,Home User,2
+A,4,P,WI,26984,Home User,2
+A,4,P,WI,26984,Home User,2
+A,4,P,CH,27061,Home User,2
+A,4,P,WI,27061,Home User,2
+A,4,P,WI,27061,Home User,2
+A,4,P,WI,27061,Home User,2
+A,4,Q,WI,27061,Home User,2
+A,4,Q,WI,27061,Home User,2
+A,4,Q,WI,27061,Home User,2
+A,4,R,NO,27061,Home User,2
+A,4,P,CH,27527,Home User,2
+A,4,P,CH,27837,Home User,2
+A,4,R,LI,27837,Home User,2
+A,4,P,NO,27914,Home User,2
+A,4,Q,WI,28187,Home User,2
+A,4,R,NO,28294,Home User,2
+B,4,P,LI,28457,Home User,2
+A,4,P,WI,28612,Home User,2
+A,4,P,WI,28612,Home User,2
+A,4,Q,NO,28612,Home User,2
+A,4,Q,WI,28612,Home User,2
+A,4,P,WI,29078,Home User,2
+A,4,Q,CH,29078,Home User,2
+A,4,P,CH,29388,Home User,2
+A,4,Q,WI,29388,Home User,2
+A,4,Q,WI,29465,Home User,2
+B,4,P,WI,29775,Home User,2
+A,4,P,CH,29853,Home User,2
+A,4,P,CH,30163,Student,3
+A,4,P,LI,30163,Student,3
+A,8,P,WI,30163,Student,3
+A,8,P,WI,30163,Student,3
+A,4,P,WI,30163,Student,3
+A,8,R,WI,30163,Student,3
+A,4,R,LI,30241,Student,3
+B,4,R,NO,30543,Student,3
+B,4,Q,WI,30628,Student,3
+A,4,R,WI,30783,Student,3
+A,4,Q,WI,30899,Student,3
+A,4,P,WI,30938,Student,3
+A,8,P,WI,30938,Student,3
+A,4,Q,LI,30938,Student,3
+A,4,Q,WI,30938,Student,3
+B,4,R,WI,30938,Student,3
+B,4,R,WI,30938,Student,3
+B,4,Q,WI,31016,Student,3
+B,4,Q,WI,31249,Student,3
+A,4,R,NO,31287,Student,3
+A,4,R,WI,31714,Student,3
+A,4,R,WI,31853,Student,3
+A,4,Q,LI,31946,Student,3
+A,4,R,WI,32171,Student,3
+A,4,R,LI,32179,Student,3
+A,4,R,WI,32461,Student,3
+A,4,P,WI,32489,Student,3
+A,4,P,WI,32489,Student,3
+B,4,Q,WI,33032,Student,3
+A,4,Q,LI,33187,Student,3
+B,8,Q,WI,33265,Student,3
+A,4,P,WI,33730,Student,3
+A,4,Q,WI,34016,Student,3
+A,4,R,WI,34040,Student,3
+A,4,R,WI,34040,Student,3
+A,4,R,WI,34040,Student,3
+B,6,R,WI,34040,Student,3
+B,4,R,LI,34257,Student,3
+A,4,R,LI,34420,Student,3
+A,4,R,NO,34428,Student,3
+A,8,Q,WI,34575,Student,3
+A,4,R,WI,34660,Student,3
+A,4,R,WI,34660,Student,3
+A,6,P,WI,34815,Student,3
+A,4,Q,WI,34815,Student,3
+A,4,Q,WI,34815,Student,3
+A,4,R,WI,34815,Student,3
+A,4,R,WI,34815,Student,3
+A,4,Q,NO,34893,Student,3
+A,4,R,WI,34893,Student,3
+B,4,Q,WI,34971,Student,3
+A,4,Q,LI,35335,Student,4
+A,8,Q,NO,35591,Student,4
+A,8,R,WI,35591,Student,4
+B,8,R,WI,35591,Student,4
+A,4,Q,CH,35661,Student,4
+B,4,R,NO,35851,Student,4
+A,4,Q,LI,36056,Student,4
+A,4,Q,LI,36104,Student,4
+A,4,Q,WI,36134,Student,4
+B,4,R,NO,36211,Student,4
+B,4,R,NO,36289,Student,4
+A,4,Q,NO,36366,Student,4
+A,4,Q,WI,36366,Student,4
+A,8,Q,WI,36366,Student,4
+B,4,Q,WI,36366,Student,4
+A,4,R,WI,36366,Student,4
+A,4,R,WI,36366,Student,4
+A,4,Q,WI,36470,Student,4
+A,4,P,WI,36832,Student,4
+A,4,P,WI,37142,Student,4
+A,4,Q,NO,37142,Student,4
+B,6,R,WI,37142,Student,4
+A,4,P,WI,37607,Student,4
+A,4,Q,LI,37607,Student,4
+B,4,Q,WI,37893,Student,4
+B,4,Q,WI,37916,Student,4
+B,4,Q,WI,37917,Student,4
+A,4,Q,WI,37917,Student,4
+A,8,R,WI,37917,Student,4
+A,4,R,WI,37917,Student,4
+B,4,R,WI,37917,Student,4
+B,4,Q,NO,37987,Student,4
+A,4,Q,WI,37987,Student,4
+B,4,R,WI,38227,Student,4
+A,8,P,CH,38382,Student,4
+A,4,Q,WI,38615,Student,4
+B,4,R,WI,38615,Student,4
+A,4,Q,WI,38685,Student,4
+A,8,Q,NO,38692,Student,4
+B,4,Q,NO,38692,Student,4
+B,4,Q,WI,38692,Student,4
+A,4,Q,WI,38692,Student,4
+B,6,Q,WI,38692,Student,4
+A,4,Q,WI,38692,Student,4
+B,4,Q,WI,38692,Student,4
+B,8,R,NO,38692,Student,4
+A,4,R,WI,38692,Student,4
+B,4,R,WI,39468,Student,4
+B,4,Q,LI,40243,Student,4
+B,8,Q,NO,40243,Student,4
+A,8,Q,WI,40243,Student,4
+B,8,Q,WI,40391,Student,4
+B,4,Q,WI,40435,Student,4
+B,8,R,LI,40553,Executive,5
+A,4,R,NO,41019,Executive,5
+B,4,Q,WI,41096,Executive,5
+A,4,Q,WI,41096,Executive,5
+B,4,R,WI,41484,Executive,5
+A,6,Q,WI,41794,Executive,5
+A,8,R,WI,41794,Executive,5
+B,8,R,WI,41868,Executive,5
+A,4,R,WI,42182,Executive,5
+A,8,R,WI,42193,Executive,5
+A,4,Q,WI,42311,Executive,5
+B,4,Q,WI,42569,Executive,5
+B,8,R,NO,42569,Executive,5
+B,8,R,NO,42569,Executive,5
+B,6,R,WI,42569,Executive,5
+B,6,R,WI,42569,Executive,5
+B,4,R,WI,42569,Executive,5
+A,4,P,WI,42880,Executive,5
+B,8,R,WI,43218,Executive,5
+A,4,Q,WI,43314,Executive,5
+B,4,Q,WI,43345,Executive,5
+B,4,R,LI,43345,Executive,5
+B,8,R,WI,43345,Executive,5
+A,4,Q,WI,43733,Executive,5
+B,6,R,WI,43733,Executive,5
+B,8,Q,WI,43810,Executive,5
+A,4,R,WI,43810,Executive,5
+B,6,R,WI,44113,Executive,5
+B,4,Q,LI,44120,Executive,5
+B,6,Q,WI,44120,Executive,5
+B,4,Q,WI,44353,Executive,5
+B,4,Q,WI,44586,Executive,5
+B,8,R,NO,44586,Executive,5
+B,6,Q,WI,44741,Executive,5
+B,6,Q,WI,44896,Executive,5
+A,4,Q,WI,44896,Executive,5
+B,4,R,NO,44896,Executive,5
+B,8,R,WI,44896,Executive,5
+C,6,S,WI,44896,Executive,5
+A,8,Q,WI,45121,Executive,5
+B,4,Q,WI,45361,Executive,5
+A,4,R,WI,45361,Executive,5
+B,4,R,WI,45453,Executive,5
+B,4,R,WI,45485,Executive,5
+B,4,Q,WI,45671,Executive,5
+B,8,R,NO,45671,Executive,5
+A,8,R,WI,45671,Executive,5
+B,8,R,WI,45671,Executive,5
+B,8,Q,LI,45711,Executive,5
+B,8,Q,WI,45749,Executive,5
+B,8,R,LI,46291,Executive,5
+B,8,R,WI,46291,Executive,5
+C,8,Q,WI,46369,Executive,5
+B,4,Q,LI,46439,Executive,5
+B,4,Q,WI,46446,Executive,5
+B,8,Q,WI,46446,Executive,5
+B,4,Q,WI,46446,Executive,5
+B,8,R,NO,46446,Executive,5
+B,4,R,WI,46446,Executive,5
+C,8,Q,LI,46516,Executive,5
+B,4,R,WI,46679,Executive,5
+C,12,Q,WI,47222,Executive,5
+B,4,Q,WI,47222,Executive,5
+B,4,Q,WI,47502,Executive,5
+B,4,Q,WI,47532,Executive,5
+A,4,Q,WI,47610,Executive,5
+A,4,P,CH,47687,Executive,5
+A,4,Q,WI,47912,Executive,5
+B,8,Q,WI,47996,Executive,5
+B,6,Q,WI,47997,Executive,5
+B,4,Q,WI,47997,Executive,5
+B,8,R,WI,47997,Executive,5
+B,4,R,WI,48187,Executive,5
+B,8,Q,WI,48773,Executive,5
+B,4,Q,WI,48773,Executive,5
+B,8,R,NO,48773,Executive,5
+B,4,R,WI,48850,Executive,5
+B,4,R,WI,49315,Executive,5
+B,8,Q,WI,49547,Executive,5
+B,4,Q,WI,49548,Executive,5
+B,8,R,WI,49548,Executive,5
+C,4,R,WI,49548,Executive,5
+B,6,R,WI,49549,Executive,5
+A,8,R,WI,49618,Executive,5
+B,8,Q,LI,50168,Programmer,6
+B,12,Q,WI,50323,Programmer,6
+B,6,R,WI,50323,Programmer,6
+B,6,R,WI,50323,Programmer,6
+B,8,R,WI,50323,Programmer,6
+B,4,R,WI,50323,Programmer,6
+B,4,R,WI,50323,Programmer,6
+B,6,Q,WI,50401,Programmer,6
+B,4,Q,WI,50789,Programmer,6
+B,6,R,WI,50789,Programmer,6
+B,4,R,WI,50789,Programmer,6
+B,4,R,WI,50944,Programmer,6
+A,4,Q,WI,51099,Programmer,6
+C,8,R,WI,51099,Programmer,6
+B,8,R,WI,51099,Programmer,6
+B,6,R,WI,51099,Programmer,6
+B,8,R,WI,51099,Programmer,6
+C,12,S,WI,51099,Programmer,6
+C,8,R,NO,51100,Programmer,6
+B,8,R,WI,51409,Programmer,6
+A,8,R,WI,51564,Programmer,6
+B,4,R,WI,51834,Programmer,6
+B,4,R,WI,51874,Programmer,6
+C,8,R,WI,51874,Programmer,6
+B,8,Q,WI,52340,Programmer,6
+B,4,R,WI,52340,Programmer,6
+B,8,Q,LI,52522,Programmer,6
+B,4,R,WI,52882,Programmer,6
+B,4,R,WI,53099,Programmer,6
+B,4,Q,WI,53114,Programmer,6
+C,8,Q,NO,53115,Programmer,6
+B,4,R,WI,53115,Programmer,6
+B,4,R,WI,53115,Programmer,6
+C,8,Q,WI,53425,Programmer,6
+C,4,R,WI,53425,Programmer,6
+B,8,R,WI,53425,Programmer,6
+A,4,R,WI,53425,Programmer,6
+A,4,R,WI,53425,Programmer,6
+B,8,R,WI,53503,Programmer,6
+B,12,Q,WI,53812,Programmer,6
+B,6,Q,WI,53890,Programmer,6
+B,8,Q,NO,54123,Programmer,6
+B,6,Q,WI,54200,Programmer,6
+A,4,Q,WI,54200,Programmer,6
+B,4,Q,WI,54200,Programmer,6
+C,8,R,WI,54200,Programmer,6
+C,8,R,WI,54200,Programmer,6
+B,4,R,WI,54200,Programmer,6
+B,4,R,WI,54200,Programmer,6
+B,4,Q,WI,54433,Programmer,6
+B,4,R,WI,54704,Programmer,6
+B,4,R,WI,54903,Programmer,6
+C,8,R,LI,54976,Programmer,6
+C,12,S,WI,55291,Programmer,6
+B,8,R,WI,55363,Programmer,6
+B,8,R,WI,55519,Programmer,6
+B,6,R,WI,55751,Programmer,6
+B,8,R,WI,55751,Programmer,6
+C,8,R,WI,55751,Programmer,6
+B,4,R,WI,55751,Programmer,6
+B,4,R,WI,55984,Programmer,6
+B,4,R,WI,55984,Programmer,6
+B,4,Q,WI,56294,Programmer,6
+B,8,R,LI,56294,Programmer,6
+B,8,Q,WI,56449,Programmer,6
+B,4,R,WI,56596,Programmer,6
+B,4,R,WI,56992,Programmer,6
+C,8,Q,LI,56997,Programmer,6
+A,4,R,WI,57059,Programmer,6
+C,4,Q,WI,57302,Programmer,6
+A,8,Q,WI,57302,Programmer,6
+B,8,R,WI,57302,Programmer,6
+B,8,R,WI,57302,Programmer,6
+B,8,R,WI,57302,Programmer,6
+A,8,R,WI,57380,Programmer,6
+C,8,R,WI,57535,Programmer,6
+A,4,Q,WI,57690,Programmer,6
+C,8,Q,WI,57767,Programmer,6
+C,8,Q,WI,57767,Programmer,6
+C,8,R,WI,57767,Programmer,6
+C,8,Q,WI,58077,Programmer,6
+B,4,R,WI,58077,Programmer,6
+B,8,R,WI,58077,Programmer,6
+C,8,Q,LI,58078,Programmer,6
+B,4,R,WI,58465,Programmer,6
+B,4,R,WI,58543,Programmer,6
+B,8,R,WI,58853,Programmer,6
+C,8,Q,WI,59535,Programmer,6
+B,8,Q,WI,59628,Programmer,6
+B,8,R,WI,59706,Programmer,6
+A,4,Q,WI,60094,Data Scientist,7
+B,4,R,WI,60171,Data Scientist,7
+C,8,Q,LI,60394,Data Scientist,7
+D,8,R,LI,60404,Data Scientist,7
+C,8,R,NO,60404,Data Scientist,7
+C,4,S,WI,60404,Data Scientist,7
+B,4,R,WI,60481,Data Scientist,7
+B,4,R,WI,60869,Data Scientist,7
+C,8,R,WI,61024,Data Scientist,7
+B,8,R,WI,61179,Data Scientist,7
+C,6,R,WI,61179,Data Scientist,7
+C,8,S,WI,61180,Data Scientist,7
+B,8,Q,WI,61242,Data Scientist,7
+B,8,R,WI,61489,Data Scientist,7
+B,8,R,WI,61567,Data Scientist,7
+B,8,R,WI,61644,Data Scientist,7
+B,8,R,WI,61831,Data Scientist,7
+C,8,R,LI,61877,Data Scientist,7
+C,4,Q,WI,61954,Data Scientist,7
+B,8,R,WI,61954,Data Scientist,7
+B,8,R,WI,61954,Data Scientist,7
+C,8,R,NO,61954,Data Scientist,7
+B,8,R,WI,62032,Data Scientist,7
+B,4,Q,WI,62420,Data Scientist,7
+B,8,R,WI,62497,Data Scientist,7
+C,8,R,NO,62730,Data Scientist,7
+B,8,R,WI,62807,Data Scientist,7
+B,8,R,WI,62962,Data Scientist,7
+C,8,R,WI,62962,Data Scientist,7
+B,8,R,WI,63040,Data Scientist,7
+B,8,Q,WI,63424,Data Scientist,7
+B,8,R,WI,63505,Data Scientist,7
+C,8,R,WI,63505,Data Scientist,7
+B,8,R,WI,63505,Data Scientist,7
+C,8,R,WI,63505,Data Scientist,7
+B,4,R,WI,63971,Data Scientist,7
+B,4,R,WI,64281,Data Scientist,7
+C,8,R,WI,64281,Data Scientist,7
+B,8,R,WI,64358,Data Scientist,7
+C,8,R,WI,64513,Data Scientist,7
+B,8,R,WI,64823,Data Scientist,7
+B,8,R,WI,64870,Data Scientist,7
+B,4,R,WI,65056,Data Scientist,7
+C,8,R,WI,65056,Data Scientist,7
+C,12,R,WI,65056,Data Scientist,7
+C,8,R,WI,65056,Data Scientist,7
+C,8,Q,WI,65211,Data Scientist,7
+B,8,R,WI,65444,Data Scientist,7
+D,8,R,LI,65599,Data Scientist,7
+C,8,R,WI,65599,Data Scientist,7
+B,8,R,WI,65638,Data Scientist,7
+B,8,R,WI,65676,Data Scientist,7
+C,8,Q,NO,65831,Data Scientist,7
+A,4,R,WI,65831,Data Scientist,7
+C,4,S,WI,65901,Data Scientist,7
+B,8,R,WI,65960,Data Scientist,7
+B,8,Q,WI,66219,Data Scientist,7
+C,8,R,WI,66297,Data Scientist,7
+B,8,Q,WI,66457,Data Scientist,7
+B,8,R,WI,66607,Data Scientist,7
+C,8,R,WI,66607,Data Scientist,7
+C,6,R,WI,66607,Data Scientist,7
+C,16,Q,WI,66608,Data Scientist,7
+B,8,R,WI,66684,Data Scientist,7
+B,8,R,WI,66684,Data Scientist,7
+C,8,Q,LI,67072,Data Scientist,7
+C,4,R,LI,67382,Data Scientist,7
+D,8,R,NO,67382,Data Scientist,7
+C,8,R,WI,67383,Data Scientist,7
+C,8,R,WI,67460,Data Scientist,7
+D,8,R,LI,68158,Data Scientist,7
+C,16,R,WI,68158,Data Scientist,7
+B,8,R,WI,68158,Data Scientist,7
+B,8,R,WI,68158,Data Scientist,7
+C,8,R,WI,68158,Data Scientist,7
+C,8,R,WI,68235,Data Scientist,7
+B,4,R,WI,68313,Data Scientist,7
+C,8,R,WI,68545,Data Scientist,7
+B,8,R,LI,68933,Data Scientist,7
+C,8,R,NO,68933,Data Scientist,7
+B,8,R,WI,68933,Data Scientist,7
+B,8,R,WI,68933,Data Scientist,7
+B,8,R,WI,69088,Data Scientist,7
+B,8,R,WI,69476,Data Scientist,7
+C,8,R,WI,69701,Data Scientist,7
+C,8,R,MA,69704,Data Scientist,7
+C,16,Q,LI,69708,Data Scientist,7
+C,8,Q,WI,69708,Data Scientist,7
+C,8,Q,WI,69708,Data Scientist,7
+B,12,R,WI,69708,Data Scientist,7
+B,8,R,WI,69708,Data Scientist,7
+B,8,R,WI,69708,Data Scientist,7
+D,8,R,WI,69708,Data Scientist,7
+C,8,R,WI,69786,Data Scientist,7
+B,8,R,WI,69941,Data Scientist,7
+C,8,R,WI,69941,Data Scientist,7
+C,8,R,WI,70299,Home User,8
+B,4,R,WI,70561,Home User,8
+B,8,R,WI,70561,Home User,8
+B,8,R,WI,70639,Home User,8
+B,4,R,WI,70755,Home User,8
+B,8,R,WI,70872,Home User,8
+B,4,R,WI,70949,Home User,8
+C,8,R,WI,71259,Home User,8
+B,8,S,WI,71259,Home User,8
+B,8,R,WI,71569,Home User,8
+B,8,R,WI,71957,Home User,8
+B,8,R,WI,71957,Home User,8
+D,8,R,LI,72035,Home User,8
+C,8,R,WI,72258,Home User,8
+B,4,S,WI,72267,Home User,8
+B,8,R,WI,72500,Home User,8
+C,8,S,WI,72500,Home User,8
+B,8,R,WI,72733,Home User,8
+C,8,R,WI,72733,Home User,8
+B,8,R,WI,72965,Home User,8
+B,8,R,WI,73120,Home User,8
+B,8,R,WI,73275,Home User,8
+B,8,R,WI,73275,Home User,8
+D,12,R,LI,73585,Home User,8
+D,8,R,WI,73585,Home User,8
+B,12,R,WI,73585,Home User,8
+B,8,R,WI,73585,Home User,8
+B,8,R,WI,73585,Home User,8
+B,8,R,WI,73585,Home User,8
+C,6,R,WI,73585,Home User,8
+C,8,R,WI,73741,Home User,8
+C,8,R,WI,74051,Home User,8
+B,8,R,WI,74051,Home User,8
+C,4,R,WI,74361,Home User,8
+B,8,R,WI,74361,Home User,8
+B,8,R,WI,74361,Home User,8
+B,8,R,WI,74438,Home User,8
+B,8,R,WI,74438,Home User,8
+C,8,S,WI,74516,Home User,8
+C,8,R,WI,75284,Home User,8
+B,8,R,WI,75446,Home User,8
+B,8,R,WI,75757,Home User,8
+B,8,R,WI,75757,Home User,8
+D,8,R,LI,75912,Home User,8
+C,8,R,WI,75912,Home User,8
+B,8,R,WI,75912,Home User,8
+B,8,R,WI,75912,Home User,8
+B,8,R,WI,75912,Home User,8
+B,8,R,WI,75989,Home User,8
+C,8,R,WI,76377,Home User,8
+C,8,R,WI,76377,Home User,8
+C,8,R,WI,76610,Home User,8
+C,8,R,WI,76687,Home User,8
+D,4,R,WI,76687,Home User,8
+B,4,R,WI,76765,Home User,8
+C,8,R,WI,77377,Home User,8
+C,8,R,MA,77385,Home User,8
+B,8,R,WI,77462,Home User,8
+B,8,R,WI,77462,Home User,8
+B,8,R,WI,77462,Home User,8
+B,12,R,WI,77462,Home User,8
+D,8,R,WI,77462,Home User,8
+C,8,R,WI,77462,Home User,8
+D,4,R,WI,77462,Home User,8
+C,16,R,WI,77462,Home User,8
+C,8,S,WI,77462,Home User,8
+B,8,R,NO,77532,Home User,8
+B,4,R,WI,77695,Home User,8
+C,8,R,WI,78201,Home User,8
+B,12,S,WI,78238,Home User,8
+C,8,S,WI,78315,Home User,8
+B,8,R,WI,78470,Home User,8
+C,8,R,NO,78858,Home User,8
+C,8,R,WI,78936,Home User,8
+C,8,R,WI,79012,Home User,8
+B,4,R,WI,79091,Home User,8
+B,8,R,WI,79556,Home User,8
+C,8,R,WI,79691,Home User,8
+C,8,R,WI,79944,Home User,8
+B,8,R,WI,80176,Gamer,9
+D,8,R,WI,80564,Gamer,9
+C,8,R,WI,80874,Gamer,9
+C,8,R,WI,81029,Gamer,9
+D,8,R,WI,81262,Gamer,9
+C,16,R,LI,81339,Gamer,9
+C,8,R,WI,81339,Gamer,9
+B,8,R,WI,81339,Gamer,9
+B,8,R,WI,81339,Gamer,9
+C,8,S,WI,81339,Gamer,9
+C,8,R,WI,81409,Gamer,9
+B,4,S,WI,81805,Gamer,9
+C,16,R,WI,82115,Gamer,9
+D,8,S,WI,82230,Gamer,9
+B,8,S,WI,82503,Gamer,9
+D,16,R,WI,83666,Gamer,9
+C,8,S,WI,83666,Gamer,9
+C,4,S,WI,83898,Gamer,9
+C,8,R,WI,84053,Gamer,9
+B,8,R,WI,84131,Gamer,9
+C,8,R,WI,84131,Gamer,9
+C,8,R,LI,84441,Gamer,9
+B,4,R,WI,84441,Gamer,9
+C,8,R,WI,84441,Gamer,9
+B,4,S,WI,84519,Gamer,9
+C,8,R,WI,84829,Gamer,9
+B,4,R,WI,84984,Gamer,9
+B,8,R,WI,84996,Gamer,9
+C,8,R,WI,85061,Gamer,9
+C,8,R,LI,85216,Gamer,9
+C,8,R,LI,85216,Gamer,9
+B,8,R,WI,85216,Gamer,9
+C,8,R,WI,85216,Gamer,9
+B,8,R,WI,85216,Gamer,9
+D,8,R,WI,85216,Gamer,9
+C,8,R,WI,85216,Gamer,9
+C,8,S,MA,85216,Gamer,9
+C,16,S,WI,85216,Gamer,9
+B,8,S,WI,85216,Gamer,9
+C,12,S,WI,85216,Gamer,9
+D,8,S,WI,85216,Gamer,9
+C,8,R,WI,85527,Gamer,9
+B,4,R,WI,85682,Gamer,9
+D,8,R,WI,85992,Gamer,9
+B,8,S,WI,86536,Gamer,9
+B,8,R,WI,86611,Gamer,9
+C,8,R,WI,86690,Gamer,9
+C,8,R,WI,86767,Gamer,9
+B,8,R,WI,86767,Gamer,9
+B,8,S,WI,86767,Gamer,9
+C,8,R,WI,86838,Gamer,9
+C,8,R,WI,87155,Gamer,9
+B,8,S,WI,87365,Gamer,9
+D,16,R,WI,87543,Gamer,9
+B,8,S,WI,87543,Gamer,9
+C,8,R,WI,87646,Gamer,9
+C,16,R,WI,88008,Gamer,9
+B,8,S,WI,88008,Gamer,9
+C,8,R,WI,88551,Gamer,9
+C,8,R,WI,88582,Gamer,9
+B,8,R,WI,88609,Gamer,9
+B,8,R,WI,88706,Gamer,9
+B,8,S,WI,88745,Gamer,9
+C,8,R,WI,88783,Gamer,9
+C,8,S,WI,88783,Gamer,9
+D,8,R,NO,89093,Gamer,9
+B,4,R,WI,89093,Gamer,9
+B,8,R,WI,89093,Gamer,9
+C,8,S,WI,89093,Gamer,9
+B,8,S,WI,89171,Gamer,9
+B,8,S,WI,89481,Gamer,9
+C,8,R,MA,89846,Gamer,9
+D,8,R,WI,89869,Gamer,9
+D,8,S,CH,89869,Gamer,9
+B,8,R,WI,90334,Data Scientist,10
+D,8,S,MA,90334,Data Scientist,10
+D,8,R,WI,90567,Data Scientist,10
+D,8,R,NO,90644,Data Scientist,10
+D,16,R,WI,91420,Data Scientist,10
+C,8,R,WI,91420,Data Scientist,10
+C,8,S,WI,91420,Data Scientist,10
+B,8,R,WI,91497,Data Scientist,10
+C,16,Q,WI,91596,Data Scientist,10
+B,8,S,WI,91962,Data Scientist,10
+D,8,R,WI,92040,Data Scientist,10
+D,8,R,WI,92195,Data Scientist,10
+D,8,R,WI,92350,Data Scientist,10
+B,8,S,WI,92350,Data Scientist,10
+D,8,R,WI,92412,Data Scientist,10
+C,8,R,WI,92505,Data Scientist,10
+C,8,R,WI,92660,Data Scientist,10
+B,4,R,WI,92660,Data Scientist,10
+C,8,S,WI,92738,Data Scientist,10
+C,16,R,WI,92815,Data Scientist,10
+B,8,R,NO,92970,Data Scientist,10
+D,8,R,WI,92970,Data Scientist,10
+D,8,R,WI,92970,Data Scientist,10
+B,8,S,WI,92970,Data Scientist,10
+C,8,S,WI,92970,Data Scientist,10
+C,8,R,WI,93048,Data Scientist,10
+C,8,S,WI,93436,Data Scientist,10
+C,8,R,WI,93591,Data Scientist,10
+B,8,S,WI,94056,Data Scientist,10
+C,8,T,MA,94241,Data Scientist,10
+C,8,S,WI,94521,Data Scientist,10
+C,16,R,WI,94540,Data Scientist,10
+C,8,S,WI,94909,Data Scientist,10
+B,8,R,WI,95297,Data Scientist,10
+C,8,T,MA,95340,Data Scientist,10
+B,4,S,WI,96460,Data Scientist,10
+D,8,R,WI,96847,Data Scientist,10
+D,12,S,WI,96847,Data Scientist,10
+D,16,R,WI,96868,Data Scientist,10
+B,8,S,WI,97545,Data Scientist,10
+C,16,R,WI,97855,Data Scientist,10
+C,8,R,WI,97855,Data Scientist,10
+D,8,S,MA,97886,Data Scientist,10
+D,8,R,WI,98088,Data Scientist,10
+B,4,S,WI,98088,Data Scientist,10
+C,8,R,WI,98321,Data Scientist,10
+C,8,S,WI,98321,Data Scientist,10
+C,24,S,WI,98398,Data Scientist,10
+C,8,S,WI,98398,Data Scientist,10
+C,16,R,WI,98553,Data Scientist,10
+C,8,R,CH,98864,Data Scientist,10
+C,16,R,WI,99174,Data Scientist,10
+C,32,S,WI,99174,Data Scientist,10
+C,8,S,WI,99230,Data Scientist,10
+C,8,R,WI,99251,Data Scientist,10
+B,4,S,WI,99639,Data Scientist,10
+C,8,R,WI,100182,Executive,11
+D,16,S,WI,100337,Executive,11
+C,8,S,WI,100569,Executive,11
+C,8,S,WI,100647,Executive,11
+C,16,R,WI,100724,Executive,11
+C,16,S,WI,100724,Executive,11
+D,16,S,WI,100724,Executive,11
+D,8,S,WI,100724,Executive,11
+C,8,S,WI,100724,Executive,11
+D,8,S,WI,100724,Executive,11
+D,8,S,WI,100724,Executive,11
+C,12,S,WI,100724,Executive,11
+C,12,S,WI,100724,Executive,11
+D,8,S,WI,100724,Executive,11
+C,8,S,WI,101112,Executive,11
+B,8,S,WI,101965,Executive,11
+C,8,S,WI,102585,Executive,11
+C,8,R,WI,103438,Executive,11
+C,8,R,WI,103516,Executive,11
+D,8,S,WI,103826,Executive,11
+C,8,S,MA,103880,Executive,11
+B,8,S,WI,103904,Executive,11
+B,8,S,WI,103904,Executive,11
+B,8,S,WI,104291,Executive,11
+D,8,S,WI,104561,Executive,11
+C,8,R,WI,104601,Executive,11
+D,16,S,WI,104601,Executive,11
+D,8,S,WI,104601,Executive,11
+D,16,S,WI,104601,Executive,11
+B,8,S,WI,104601,Executive,11
+B,8,S,WI,104601,Executive,11
+C,8,S,WI,104601,Executive,11
+C,8,S,WI,104601,Executive,11
+D,8,T,WI,104679,Executive,11
+B,8,S,WI,105299,Executive,11
+C,8,S,WI,105687,Executive,11
+B,8,R,WI,105765,Executive,11
+B,8,S,WI,106152,Executive,11
+C,8,S,WI,106152,Executive,11
+C,12,R,WI,106222,Executive,11
+C,8,R,WI,106773,Executive,11
+C,8,S,WI,106928,Executive,11
+D,16,S,WI,106928,Executive,11
+C,8,S,WI,107626,Executive,11
+C,8,S,WI,107703,Executive,11
+C,8,S,WI,107703,Executive,11
+C,16,R,WI,108246,Executive,11
+D,16,S,NO,108401,Executive,11
+C,8,R,WI,108478,Executive,11
+D,8,S,WI,108478,Executive,11
+B,8,S,WI,108478,Executive,11
+C,8,S,WI,108478,Executive,11
+B,8,S,WI,108478,Executive,11
+C,16,S,WI,108478,Executive,11
+C,8,S,WI,108478,Executive,11
+B,8,S,WI,108478,Executive,11
+B,8,S,WI,108478,Executive,11
+C,16,S,NO,108552,Executive,11
+C,16,R,WI,108789,Executive,11
+D,16,S,WI,109099,Executive,11
+D,8,S,WI,109254,Executive,11
+C,8,S,MA,110029,Executive,11
+C,16,S,WI,110623,Executive,11
+C,8,S,WI,110650,Executive,11
+D,8,S,WI,110650,Executive,11
+B,8,S,WI,110805,Executive,11
+C,8,R,WI,112355,Executive,11
+D,16,S,WI,112355,Executive,11
+B,8,S,WI,112425,Executive,11
+B,8,S,WI,113208,Executive,11
+B,8,S,WI,113596,Executive,11
+C,16,R,WI,113829,Executive,11
+C,8,S,WI,113829,Executive,11
+B,8,P,WI,114154,Executive,11
+C,8,S,WI,114294,Executive,11
+B,8,S,WI,114372,Executive,11
+D,16,S,WI,114682,Executive,11
+C,8,S,WI,114759,Executive,11
+C,8,S,WI,114992,Executive,11
+D,8,S,WI,115284,Executive,11
+C,8,S,WI,115456,Executive,11
+C,16,S,WI,115922,Executive,11
+D,16,S,WI,116155,Executive,11
+D,16,S,WI,116232,Executive,11
+D,16,S,WI,116232,Executive,11
+B,8,S,WI,116232,Executive,11
+C,8,S,WI,116232,Executive,11
+B,8,S,WI,116232,Executive,11
+B,8,S,WI,116232,Executive,11
+C,8,S,WI,116232,Executive,11
+B,8,S,WI,116232,Executive,11
+C,8,S,WI,116232,Executive,11
+C,8,S,WI,116310,Executive,11
+D,16,S,WI,116620,Executive,11
+C,8,S,MA,117085,Executive,11
+C,8,S,MA,117748,Executive,11
+D,16,S,WI,118559,Executive,11
+D,8,S,WI,118946,Executive,11
+B,8,S,WI,119024,Executive,11
+B,8,S,WI,119024,Executive,11
+C,16,S,WI,119209,Executive,11
+D,16,S,WI,120109,Programmer,12
+C,16,S,WI,120109,Programmer,12
+C,8,S,CH,120885,Programmer,12
+C,8,S,WI,121040,Programmer,12
+B,4,S,WI,122436,Programmer,12
+C,8,S,WI,122436,Programmer,12
+C,8,S,WI,122823,Programmer,12
+D,16,S,WI,123366,Programmer,12
+D,16,S,WI,123986,Programmer,12
+C,8,S,WI,123986,Programmer,12
+B,8,S,WI,123986,Programmer,12
+B,8,S,WI,123986,Programmer,12
+C,16,S,WI,124681,Programmer,12
+B,8,S,WI,126313,Programmer,12
+B,8,S,WI,127088,Programmer,12
+C,8,R,WI,127863,Programmer,12
+C,8,S,WI,127863,Programmer,12
+C,16,S,WI,127863,Programmer,12
+C,16,S,WI,127863,Programmer,12
+C,8,S,WI,127941,Programmer,12
+C,8,S,WI,127941,Programmer,12
+D,8,S,WI,128329,Programmer,12
+B,8,S,WI,129414,Programmer,12
+B,8,S,WI,129492,Programmer,12
+B,8,R,WI,129647,Programmer,12
+C,12,S,WI,129724,Programmer,12
+D,16,S,WI,130190,Programmer,12
+C,8,P,WI,130267,Programmer,12
+C,8,S,WI,130782,Programmer,12
+C,8,S,WI,131043,Programmer,12
+D,8,S,WI,131430,Programmer,12
+D,8,S,WI,131740,Programmer,12
+D,12,S,WI,131740,Programmer,12
+C,8,S,WI,131740,Programmer,12
+D,16,S,WI,131740,Programmer,12
+B,4,S,WI,131818,Programmer,12
+C,8,S,WI,134067,Programmer,12
+D,8,S,WI,134785,Programmer,12
+C,16,S,WI,135462,Programmer,12
+C,16,S,WI,135610,Programmer,12
+C,8,R,WI,135617,Programmer,12
+D,16,S,WI,135617,Programmer,12
+D,16,S,WI,135617,Programmer,12
+D,12,S,WI,135617,Programmer,12
+C,16,S,WI,135617,Programmer,12
+C,8,S,WI,135617,Programmer,12
+C,8,S,WI,135695,Programmer,12
+C,8,S,WI,136270,Programmer,12
+C,8,S,WI,136470,Programmer,12
+D,8,S,WI,136703,Programmer,12
+C,16,S,WI,136781,Programmer,12
+C,8,S,WI,137246,Programmer,12
+C,8,S,WI,137634,Programmer,12
+D,8,S,WI,137866,Programmer,12
+C,8,S,WI,138797,Programmer,12
+C,16,R,WI,139417,Programmer,12
+C,16,R,WI,139494,Programmer,12
+D,16,S,WI,139494,Programmer,12
+D,12,S,WI,139494,Programmer,12
+D,16,S,WI,139494,Programmer,12
+C,16,S,WI,139494,Programmer,12
+C,16,S,WI,139494,Programmer,12
+D,16,S,WI,139494,Programmer,12
+C,16,S,WI,139494,Programmer,12
+B,4,S,WI,139494,Programmer,12
+B,8,S,WI,139494,Programmer,12
+C,16,S,WI,139494,Programmer,12
+C,8,S,WI,139494,Programmer,12
+B,8,S,MA,139851,Programmer,12
+D,8,S,WI,141123,Programmer,12
+B,8,S,WI,141511,Programmer,12
+D,8,T,WI,141821,Programmer,12
+B,8,S,WI,142817,Programmer,12
+D,16,S,WI,143061,Programmer,12
+C,16,R,WI,143371,Programmer,12
+C,8,R,WI,143371,Programmer,12
+C,16,R,WI,143371,Programmer,12
+C,16,S,WI,143837,Programmer,12
+C,12,S,WI,144069,Programmer,12
+C,8,T,WI,144147,Programmer,12
+C,16,T,WI,144147,Programmer,12
+C,8,S,WI,144301,Programmer,12
+C,16,S,WI,144612,Programmer,12
+C,8,S,WI,144833,Programmer,12
+C,16,S,WI,144922,Programmer,12
+B,8,S,WI,144922,Programmer,12
+C,8,S,WI,145000,Programmer,12
+C,8,S,WI,145232,Programmer,12
+B,8,S,WI,145388,Programmer,12
+C,16,S,WI,145543,Programmer,12
+D,16,S,WI,146551,Programmer,12
+D,16,S,WI,146628,Programmer,12
+D,16,S,WI,147248,Programmer,12
+C,8,S,WI,147248,Programmer,12
+C,16,S,WI,147248,Programmer,12
+C,8,S,WI,147248,Programmer,12
+D,16,S,WI,147248,Programmer,12
+D,16,S,WI,147248,Programmer,12
+B,8,S,WI,147326,Programmer,12
+C,16,S,WI,147326,Programmer,12
+D,8,T,WI,147559,Programmer,12
+D,8,S,WI,147946,Programmer,12
+D,8,S,WI,147946,Programmer,12
+D,8,S,WI,149265,Programmer,12
+C,16,T,WI,150040,Gamer,13
+D,8,T,WI,150660,Gamer,13
+C,8,T,WI,151125,Gamer,13
+C,16,S,WI,151203,Gamer,13
+C,8,S,WI,151203,Gamer,13
+C,8,S,MA,151893,Gamer,13
+C,8,S,WI,152209,Gamer,13
+B,8,S,WI,152210,Gamer,13
+D,16,S,WI,152366,Gamer,13
+C,8,T,WI,152754,Gamer,13
+C,16,S,WI,153142,Gamer,13
+C,16,T,WI,153142,Gamer,13
+C,16,T,WI,153142,Gamer,13
+D,16,T,WI,153762,Gamer,13
+D,8,T,WI,154537,Gamer,13
+D,12,T,WI,155002,Gamer,13
+C,8,T,WI,155002,Gamer,13
+C,8,S,WI,156096,Gamer,13
+D,8,S,WI,156166,Gamer,13
+C,8,T,WI,157019,Gamer,13
+D,16,S,WI,157206,Gamer,13
+D,16,T,WI,157329,Gamer,13
+B,8,T,MA,158182,Gamer,13
+D,8,T,WI,158647,Gamer,13
+C,8,T,WI,158879,Gamer,13
+D,16,T,WI,158949,Gamer,13
+C,16,T,WI,159035,Gamer,13
+D,8,T,WI,160112,Gamer,13
+D,8,T,WI,162059,Gamer,13
+D,16,T,WI,162406,Gamer,13
+C,16,S,WI,162756,Gamer,13
+C,16,S,WI,162756,Gamer,13
+D,16,T,WI,162756,Gamer,13
+C,16,T,WI,162756,Gamer,13
+D,16,T,WI,164540,Gamer,13
+C,8,T,WI,165548,Gamer,13
+C,16,T,WI,165933,Gamer,13
+C,16,S,CH,170510,Gamer,13
+C,16,S,WI,170510,Gamer,13
+D,16,S,WI,170510,Gamer,13
+C,16,T,WI,173690,Gamer,13
+D,16,T,WI,173806,Gamer,13
+C,8,T,WI,174387,Gamer,13
+D,16,T,WI,174387,Gamer,13
+D,16,T,WI,175850,Gamer,13
+B,8,S,WI,176559,Gamer,13
+C,8,T,WI,176946,Gamer,13
+C,8,S,WI,178264,Gamer,13
+D,16,T,WI,178264,Gamer,13
+D,16,T,WI,178264,Gamer,13
+C,16,T,WI,178264,Gamer,13
+B,8,T,WI,180668,Gamer,14
+C,16,T,WI,181289,Gamer,14
+C,16,T,WI,182141,Gamer,14
+C,16,T,WI,182219,Gamer,14
+C,16,T,WI,183770,Gamer,14
+C,24,T,WI,184700,Gamer,14
+D,16,S,WI,185863,Gamer,14
+D,16,S,WI,186018,Gamer,14
+D,8,T,WI,186716,Gamer,14
+D,16,T,WI,187259,Gamer,14
+D,16,T,WI,187569,Gamer,14
+D,16,T,WI,187569,Gamer,14
+C,16,T,MA,189195,Gamer,14
+C,16,R,WI,189585,Gamer,14
+D,16,T,WI,189895,Gamer,14
+D,16,T,WI,189895,Gamer,14
+C,16,T,WI,189895,Gamer,14
+C,16,T,WI,189973,Gamer,14
+D,16,T,WI,190465,Gamer,14
+C,16,S,WI,193772,Gamer,14
+D,16,T,WI,193772,Gamer,14
+C,8,T,WI,193772,Gamer,14
+C,16,T,WI,193772,Gamer,14
+D,16,T,WI,194239,Gamer,14
+C,16,T,WI,194548,Gamer,14
+C,16,T,MA,196754,Gamer,14
+C,8,T,WI,198425,Gamer,14
+C,16,T,WI,200751,Gamer,14
+C,8,T,WI,200829,Gamer,14
+D,16,T,WI,201526,Gamer,14
+C,16,T,WI,203543,Gamer,14
+D,32,T,WI,204628,Gamer,14
+C,16,T,WI,205403,Gamer,14
+C,32,T,WI,206489,Gamer,14
+D,16,T,WI,209280,Gamer,14
+D,8,T,WI,210288,Gamer,14
+D,16,T,WI,211607,Gamer,14
+C,16,T,WI,213855,Gamer,14
+D,16,T,WI,215145,Gamer,14
+C,32,R,WI,217034,Gamer,14
+C,32,T,WI,217034,Gamer,14
+D,16,T,WI,217034,Gamer,14
+C,32,T,WI,217034,Gamer,14
+C,32,T,WI,217112,Gamer,14
+D,16,T,WI,218178,Gamer,14
+C,16,T,WI,218973,Gamer,14
+C,16,T,WI,221609,Gamer,14
+D,16,T,WI,222461,Gamer,14
+D,16,T,WI,223692,Gamer,14
+D,16,T,WI,224788,Gamer,14
+D,24,T,WI,230139,Gamer,14
+D,8,T,WI,232542,Gamer,14
+D,16,T,WI,232542,Gamer,14
+D,16,T,WI,233610,Gamer,14
+D,16,T,WI,236885,Gamer,14
+D,32,T,WI,238272,Gamer,14
+D,8,S,WI,240374,Gamer,14
+D,32,T,WI,244047,Gamer,14
+D,32,T,WI,244173,Gamer,14
+D,16,T,WI,244561,Gamer,14
+C,16,T,WI,255804,Gamer,14
+D,32,T,WI,278276,Gamer,14
+D,32,T,WI,301631,Gamer,14
+D,16,T,WI,340323,Gamer,14
+D,32,T,WI,379868,Gamer,14
+D,32,T,WI,426392,Gamer,14
+D,32,T,WI,472916,Gamer,14
